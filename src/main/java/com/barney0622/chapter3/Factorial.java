@@ -1,4 +1,4 @@
-package com.barney0622.part3;
+package com.barney0622.chapter3;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

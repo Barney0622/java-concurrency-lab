@@ -1,4 +1,4 @@
-package com.barney0622.part2.runnable;
+package com.barney0622.chapter2.runnable;
 
 public class CreateThread {
 

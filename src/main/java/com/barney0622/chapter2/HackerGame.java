@@ -1,4 +1,4 @@
-package com.barney0622.part2;
+package com.barney0622.chapter2;
 
 import java.util.ArrayList;
 import java.util.List;
